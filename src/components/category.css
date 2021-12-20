@@ -1,0 +1,14 @@
+img{
+    height: 210px;
+    width: 130px;
+}
+
+#main_img{
+    height: 500px;
+    width: 1300px;
+    margin: 2rem;
+}
+
+FaCartPlus{
+    font-size: large;
+}
